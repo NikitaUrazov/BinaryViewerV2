@@ -1,0 +1,17 @@
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\bin\Debug\net6.0-windows\BinaryViewerV2.exe
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\bin\Debug\net6.0-windows\BinaryViewerV2.deps.json
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\bin\Debug\net6.0-windows\BinaryViewerV2.runtimeconfig.json
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\bin\Debug\net6.0-windows\BinaryViewerV2.dll
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\bin\Debug\net6.0-windows\BinaryViewerV2.pdb
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.csproj.AssemblyReference.cache
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.Form1.resources
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.csproj.GenerateResource.cache
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.AssemblyInfoInputs.cache
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.AssemblyInfo.cs
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.csproj.CoreCompileInputs.cache
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.dll
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\refint\BinaryViewerV2.dll
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.pdb
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\BinaryViewerV2.genruntimeconfig.cache
+D:\BinaryViewerV2\BinaryViewerV2\BinaryViewerV2\obj\Debug\net6.0-windows\ref\BinaryViewerV2.dll
